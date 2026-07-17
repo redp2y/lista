@@ -1275,3 +1275,21 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?Playl
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Outros",TVP Obregon | MX
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="" group-title="Esportes", SporTV
+https://rdcanais.net/sportv
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="" group-title="Esportes", SporTV 2
+https://rdcanais.net/sportv2
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="" group-title="Esportes", SporTV 3
+https://rdcanais.net/sportv3
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="" group-title="Esportes", Premiere Clubes
+https://rdcanais.net/premiereclubes
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="" group-title="Esportes", Premiere 2
+https://rdcanais.net/premiere2
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="" group-title="Esportes", Premiere 3
+https://rdcanais.net/premiere3
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="" group-title="Esportes", Premiere 4
+https://rdcanais.net/premiere4
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="" group-title="Esportes", Premiere 5
+https://rdcanais.net/premiere5
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="" group-title="Esportes", Premiere 6
+https://rdcanais.net/premiere6
